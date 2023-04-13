@@ -1,1 +1,2 @@
-# Phat_hien_khuon_mat
+# Phát hiện khuôn mặt dùng model của Facebook
+HCMUTE 
